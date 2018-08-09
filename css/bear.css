@@ -10,4 +10,4 @@ html {
 
 /* Write your solution here */
 
-@media screen only 
+@media screen only and (max-width: 1196px)
